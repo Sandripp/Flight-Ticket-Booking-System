@@ -18,11 +18,6 @@ In addition to the destination selection, Sata Travel and Tours offers a unique 
 While users are in the process of selecting their destination, they can also explore the weather conditions of various cities. 
 This information helps users make informed decisions about their travel plans and prepares them for any weather-related considerations during their trip.
 
-# 3. Secure Flight Reservation
-   
-Once users have selected their destination and travel dates, Sata Travel and Tours ensures a secure flight reservation process. 
-The system utilizes industry-standard security measures to protect users' personal and payment information. 
-By maintaining data privacy and offering a secure payment gateway, we prioritize the safety and trust of our users.
 
 # Technologies Used:
 
