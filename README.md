@@ -26,9 +26,7 @@ By maintaining data privacy and offering a secure payment gateway, we prioritize
 
 # Technologies Used:
 
-1. HTML5
-2. CSS3
+1. HTML
+2. CSS
 3. JavaScript
-4. React.js
-5. Node.js
-6. Express.js
+
